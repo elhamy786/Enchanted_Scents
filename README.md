@@ -11,7 +11,6 @@
       <a href="#subscribe" class="nav-link">Subscribe</a>
 </nav>
 ```
-
 ```css
 @media (max-width: 768px) {
     .perfume-grid {
@@ -23,6 +22,9 @@
     }
 }
 ```
+## Demo 📸
+
+![Screenshot](./Images/Screenshot%20(237).png)
 
 ## Technologies Used 🛠️
 
