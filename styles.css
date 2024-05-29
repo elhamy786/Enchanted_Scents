@@ -6,7 +6,7 @@ body {
   background-image: url(Images/081aed2e7ddc029f940021ddb22145fc.jpg);
   font-size: 120%;
 }
-header {
+ header {
   background-color: #f8f8f8;
   padding: 20px 0;
   position: fixed;
@@ -76,7 +76,7 @@ section {
   margin-top: 20px;
 }
 
-#name, #email {
+#name,#email {
   padding: 10px;
   width: 80%;
   max-width: 300px;
